@@ -1,7 +1,4 @@
 # Seq2Seq_LSTM_MOT
-## Seq2Seq LSTM-Based Multi-Object Tracking for Occlusion Handling in Manufacturing Environments
-
-# Seq2Seq_LSTM_MOT
 
 This repository contains an experimental implementation of a **Seq2Seq + LSTM-based Multi-Object Tracking (MOT)** framework.  
 The project focuses on learning temporal motion patterns from object trajectories and applying sequence-to-sequence modeling for tracking tasks.
